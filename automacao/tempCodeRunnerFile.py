@@ -1,0 +1,1 @@
+pesquisar.click(x=1372, y=1064)
